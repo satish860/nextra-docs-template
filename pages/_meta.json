@@ -1,7 +1,16 @@
 {
   "index": "Introduction",
-  "another": "Another Page",
-  "advanced": "Advanced (A Folder)",
+  "chapter1": "CHAPTER I. - PRELIMINARY",
+  "chapter2": "CHAPTER II. - OF THE RELEVANCY OF FACTS",
+  "chapter3": "CHAPTER III.—FACTS WHICH NEED NOT BE PROVED",
+  "chapter4": "CHAPTER IV. - OF ORAL EVIDENCE",
+  "chapter5": "CHAPTER V. - OF DOCUMENTARY EVIDENCE",
+  "chapter6": "CHAPTER VI. - OF THE EXCLUSION OF ORAL BY DOCUMENTARY EVIDENCE",
+  "chapter7": "CHAPTER VII. - OF THE BURDEN OF PROOF",
+  "chapter8": "CHAPTER VIII. - ESTOPPEL",
+  "chapter9": "CHAPTER IX. - OF THE EXAMINATION OF WITNESSES",
+  "chapter10": "CHAPTER X. - OF IMPROPER ADMISSION AND REJECTION OF EVIDENCE",
+  "chapter11": "CHAPTER XI. - OF THE DETERMINATION OF SUITS, AND OF INCIDENTAL MATTERS",
   "about": {
     "title": "About",
     "type": "page"
